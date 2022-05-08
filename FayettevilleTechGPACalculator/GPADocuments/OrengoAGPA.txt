@@ -1,0 +1,6 @@
+Student Semester Information
+**********************************
+Semester: Spring
+Student GPA: 3.31
+Name:  Anthony Orengo
+*****************************
