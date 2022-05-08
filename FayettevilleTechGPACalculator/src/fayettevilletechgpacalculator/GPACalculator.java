@@ -11,7 +11,8 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.text.DecimalFormat;
 import javax.swing.DefaultComboBoxModel;
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
+//import javax.swing.JTextField;
 
 /**
  *
@@ -25,13 +26,14 @@ public class GPACalculator extends javax.swing.JFrame {
     
     public GPACalculator() {
         initComponents();
-        //Set save boc components to invisible-----------------
+        //Set save boc components to invisible-----------------         
         jPanel2.setVisible(false);
         saveDoc_textField.setVisible(false);
         save_boxLabel.setVisible(false);
         save_button.setVisible(false);
         //-----------------------------------------------------
-        // <editor-fold defaultstate="collapsed" desc="Load Combo Box Array"> 
+        //Loads Letter Grade Combo boxes--------------------------------------//
+         // <editor-fold defaultstate="collapsed" desc="Load Combo Box Array"> 
         //Load brick types to String array
         String[] brickOptions = {
         "    ","A","B","C","D","F"};     
@@ -57,7 +59,7 @@ public class GPACalculator extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel1 = new javax.swing.JPanel();
+        reset = new javax.swing.JPanel();
         displayStudentInfo_textArea = new javax.swing.JScrollPane();
         studentInfo = new javax.swing.JTextArea();
         jLabel13 = new javax.swing.JLabel();
@@ -106,6 +108,9 @@ public class GPACalculator extends javax.swing.JFrame {
         saveDoc_label = new javax.swing.JLabel();
         save_button = new javax.swing.JButton();
         jLabel17 = new javax.swing.JLabel();
+        resetTextArea_button = new javax.swing.JButton();
+        jLabel18 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         saveFIle_jMenuItem1 = new javax.swing.JMenuItem();
@@ -116,28 +121,28 @@ public class GPACalculator extends javax.swing.JFrame {
         setForeground(new java.awt.Color(0, 204, 204));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel1.setBackground(new java.awt.Color(241, 183, 37));
-        jPanel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
-        jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        reset.setBackground(new java.awt.Color(241, 183, 37));
+        reset.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        reset.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         studentInfo.setColumns(20);
         studentInfo.setRows(5);
         studentInfo.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
         displayStudentInfo_textArea.setViewportView(studentInfo);
 
-        jPanel1.add(displayStudentInfo_textArea, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 550, 300, 190));
+        reset.add(displayStudentInfo_textArea, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 550, 300, 190));
 
         jLabel13.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel13.setText("Students Name");
-        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 120, -1, -1));
+        reset.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 120, -1, -1));
 
         studentName_textField.setText(" ");
         studentName_textField.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
-        jPanel1.add(studentName_textField, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 120, 170, -1));
+        reset.add(studentName_textField, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 120, 170, -1));
 
         jLabel14.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel14.setText("Semester");
-        jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 160, -1, -1));
+        reset.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 160, -1, -1));
 
         calc_button.setText("Calculate");
         calc_button.addActionListener(new java.awt.event.ActionListener() {
@@ -145,7 +150,7 @@ public class GPACalculator extends javax.swing.JFrame {
                 calc_buttonActionPerformed(evt);
             }
         });
-        jPanel1.add(calc_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 510, -1, -1));
+        reset.add(calc_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 500, -1, -1));
 
         reset_button.setText("Reset");
         reset_button.addActionListener(new java.awt.event.ActionListener() {
@@ -153,180 +158,202 @@ public class GPACalculator extends javax.swing.JFrame {
                 reset_buttonActionPerformed(evt);
             }
         });
-        jPanel1.add(reset_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 510, -1, -1));
+        reset.add(reset_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 500, -1, -1));
 
+        creditsClass8_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass8_textBox.setText("0");
         creditsClass8_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass8_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass8_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass8_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass8_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 460, 60, -1));
+        reset.add(creditsClass8_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 460, 50, 20));
 
         jLabel5.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel5.setText("Class 8");
-        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 460, -1, 20));
+        reset.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 460, -1, 20));
 
         jLabel7.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel7.setText("Class 7");
-        jPanel1.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 430, -1, 20));
+        reset.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 430, -1, 20));
 
+        creditsClass7_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass7_textBox.setText("0");
         creditsClass7_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass7_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass7_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass7_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass7_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 430, 60, -1));
+        reset.add(creditsClass7_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 430, 50, 20));
 
+        creditsClass6_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass6_textBox.setText("0");
         creditsClass6_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass6_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass6_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass6_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass6_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 400, 60, -1));
+        reset.add(creditsClass6_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 400, 50, 20));
 
         jLabel4.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel4.setText("Class 6");
-        jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 400, -1, 20));
+        reset.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 400, -1, 20));
 
         jLabel8.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel8.setText("Class 5");
-        jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 370, -1, 20));
+        reset.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 370, -1, 20));
 
+        creditsClass5_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass5_textBox.setText("0");
         creditsClass5_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass5_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass5_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass5_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass5_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 370, 60, -1));
+        reset.add(creditsClass5_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 370, 50, 20));
 
+        creditsClass4_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass4_textBox.setText("0");
         creditsClass4_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass4_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass4_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass4_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass4_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 340, 60, -1));
+        reset.add(creditsClass4_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 340, 50, 20));
 
         jLabel6.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel6.setText("Class 4");
-        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 340, -1, 20));
+        reset.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 340, -1, 20));
 
         jLabel3.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel3.setText("Class 3");
-        jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 310, -1, 20));
+        reset.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 310, -1, 20));
 
+        creditsClass2_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass2_textBox.setText("0");
         creditsClass2_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass2_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass2_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass2_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass2_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 280, 60, -1));
+        reset.add(creditsClass2_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 280, 50, 20));
 
         jLabel2.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel2.setText("Class 2");
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 280, -1, 20));
+        reset.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 280, -1, 20));
 
         jLabel1.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel1.setText("Class 1");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 250, -1, 20));
+        reset.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 250, -1, 20));
 
         jLabel10.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel10.setText("Credits");
-        jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 220, -1, -1));
+        reset.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 220, -1, -1));
 
         jLabel9.setFont(new java.awt.Font("Microsoft Himalaya", 0, 24)); // NOI18N
         jLabel9.setText("Letter Grade");
-        jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 220, -1, -1));
+        reset.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 220, -1, -1));
 
         summerJRButton.setBackground(new java.awt.Color(241, 183, 37));
         summerJRButton.setText("Summer");
-        jPanel1.add(summerJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 160, -1, -1));
+        reset.add(summerJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 160, -1, -1));
 
         fallJRButton.setBackground(new java.awt.Color(241, 183, 37));
         fallJRButton.setText("Fall");
-        jPanel1.add(fallJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 160, -1, -1));
+        reset.add(fallJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 160, -1, -1));
 
         springJRButton.setBackground(new java.awt.Color(241, 183, 37));
         springJRButton.setText("Spring");
-        jPanel1.add(springJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 160, -1, -1));
+        springJRButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                springJRButtonActionPerformed(evt);
+            }
+        });
+        reset.add(springJRButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 160, -1, -1));
 
         jLabel12.setFont(new java.awt.Font("Microsoft Himalaya", 0, 75)); // NOI18N
         jLabel12.setText("GPA Calculator");
-        jPanel1.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 50, 340, 60));
+        reset.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 50, 340, 60));
 
         jLabel11.setFont(new java.awt.Font("Microsoft Himalaya", 1, 24)); // NOI18N
         jLabel11.setText("FTCC Grading Scale");
-        jPanel1.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 230, -1, -1));
+        reset.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 230, -1, -1));
 
+        creditsClass3_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass3_textBox.setText("0");
         creditsClass3_textBox.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 2, true));
+        creditsClass3_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass3_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass3_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass3_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 310, 60, -1));
+        reset.add(creditsClass3_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 310, 50, 20));
 
+        creditsClass1_textBox.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         creditsClass1_textBox.setText("0");
         creditsClass1_textBox.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
+        creditsClass1_textBox.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         creditsClass1_textBox.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 creditsClass1_textBoxMouseClicked(evt);
             }
         });
-        jPanel1.add(creditsClass1_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 250, 60, -1));
+        reset.add(creditsClass1_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 250, 50, 20));
 
         LetterGrade1_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade1_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 250, -1, -1));
+        reset.add(LetterGrade1_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 250, -1, -1));
 
         LetterGrade2_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade2_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 280, -1, -1));
+        reset.add(LetterGrade2_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 280, -1, -1));
 
         LetterGrade3_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade3_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 310, -1, -1));
+        reset.add(LetterGrade3_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 310, -1, -1));
 
         LetterGrade4_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade4_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 340, -1, -1));
+        reset.add(LetterGrade4_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 340, -1, -1));
 
         LetterGrade5_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade5_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 370, -1, -1));
+        reset.add(LetterGrade5_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 370, -1, -1));
 
         LetterGrade6_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade6_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 400, -1, -1));
+        reset.add(LetterGrade6_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 400, -1, -1));
 
         LetterGrade7_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade7_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 430, -1, -1));
+        reset.add(LetterGrade7_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 430, -1, -1));
 
         LetterGrade8_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-        jPanel1.add(LetterGrade8_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 460, -1, -1));
+        reset.add(LetterGrade8_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 460, -1, -1));
 
         jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/fayettevilletechgpacalculator/FTCC Logo3.PNG"))); // NOI18N
         jLabel15.setText(" ");
-        jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, 80));
+        reset.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, 80));
 
+        jTextArea2.setEditable(false);
         jTextArea2.setColumns(20);
         jTextArea2.setFont(new java.awt.Font("Monospaced", 0, 18)); // NOI18N
         jTextArea2.setRows(5);
-        jTextArea2.setText("Grade \tGrade points per credit hour \tExplanation\nA \t4 \tExcellent\nB \t3 \tVery Good\nC \t2 \tSatisfactory\nD \t1 \tPoor\nF \t0 \tFailing");
+        jTextArea2.setText("Grade \tGrade points per credit hour \tExplanation\n----------------------------------------------------\nA \t4 \t\t\t\tExcellent\nB \t3 \t\t\t\tVery Good\nC \t2 \t\t\t\tSatisfactory\nD \t1 \t\t\t\tPoor\nF \t0 \t\t\t\tFailing\n____________________________________________________");
         jTextArea2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         jScrollPane1.setViewportView(jTextArea2);
 
-        jPanel1.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 250, 580, 230));
+        reset.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 250, 580, 230));
 
         jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/fayettevilletechgpacalculator/FtccLogoTrojan2.png"))); // NOI18N
         jLabel16.setText(" ");
-        jPanel1.add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 10, -1, 180));
+        reset.add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 10, -1, 180));
 
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -347,13 +374,29 @@ public class GPACalculator extends javax.swing.JFrame {
         });
         jPanel2.add(save_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 70, -1, -1));
 
-        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 100, 320, 100));
+        reset.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 100, 320, 100));
 
         jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/fayettevilletechgpacalculator/FtccEstabLogo1.png"))); // NOI18N
         jLabel17.setText(" ");
-        jPanel1.add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 600, -1, -1));
+        reset.add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 600, -1, -1));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 970, 800));
+        resetTextArea_button.setText("Reset");
+        resetTextArea_button.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                resetTextArea_buttonActionPerformed(evt);
+            }
+        });
+        reset.add(resetTextArea_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 750, -1, 30));
+
+        jLabel18.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel18.setText("Reset Student Information");
+        reset.add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 750, -1, 30));
+
+        jLabel19.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        jLabel19.setText("Student Information");
+        reset.add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 540, -1, 10));
+
+        getContentPane().add(reset, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 970, 800));
 
         jMenu1.setText("File");
 
@@ -374,7 +417,7 @@ public class GPACalculator extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+    //Main action performed--Calculator Button is enabled--//
     private void calc_buttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_calc_buttonActionPerformed
         // TODO add your handling code here:
         // TODO add your handling code here:
@@ -489,13 +532,23 @@ public class GPACalculator extends javax.swing.JFrame {
         {
             creditsClass8_textBox.setText("0");
         }
+        //Get semster type 
         semesterType = GetSemster();
+        //Display output in console(Use only during testing--remove when done)
         System.out.println(points);
+        //Set decimal format to two decimal places
         DecimalFormat df = new DecimalFormat("0.00");
+        //get total Credits 
         credits = GetCredits();
+        //Display output in console(Use only during testing--remove when done)
         System.out.println(credits);
+        
+        //Calculate total GPA
         input = String.valueOf(df.format(GetGPA(points,credits)));
+        //Display output in console(Use only during testing--remove when done)
         System.out.println(String.valueOf(GetGPA(points,credits)));
+        
+        //Display Student Information to user in JTextArea---------------------/
         studentInfo.setText("Student Semester Information\n**********************************\n"
                 + "Semester: " + semesterType +
                 "\nName: "+ studentName_textField.getText() +                
@@ -503,12 +556,14 @@ public class GPACalculator extends javax.swing.JFrame {
                 );
          
     }//GEN-LAST:event_calc_buttonActionPerformed
+     //Get GPA-----------------------------------------------------------------/
     private Double GetGPA(double points,double credits){
        
         
         double GPA = points/credits;         
         return GPA;
     }
+    //Get Semester Type (Spring,Summer,Fall)----------------------------------/
     private String GetSemster()
     {
         String sType = "";
@@ -523,6 +578,7 @@ public class GPACalculator extends javax.swing.JFrame {
         }
         return sType;
     }
+    //Get Total Credits-------------------------------------------------------/
     private double GetCredits(){
         String input;
         double credits = 0;
@@ -545,6 +601,7 @@ public class GPACalculator extends javax.swing.JFrame {
         
         return credits;
     }
+    //Check text boxes for proper input (Alphnumeric check)--------------------/
     private double CheckTextBox(String input)
     {
         double credits = 0.0;
@@ -558,6 +615,7 @@ public class GPACalculator extends javax.swing.JFrame {
          } 
         return credits;
     }
+    //Get total points per letter grade type----------------------------------/
     private static double GetPoints(double points, String letter,double credits)
     {
         switch(letter){
@@ -609,15 +667,15 @@ public class GPACalculator extends javax.swing.JFrame {
         save_boxLabel.setVisible(true);
         save_button.setVisible(true);
     }//GEN-LAST:event_saveFIle_jMenuItem1ActionPerformed
-
+    //Save Student information to text doc(Stored in GPADocuments Folder)
     private void save_buttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_save_buttonActionPerformed
     // TODO add your handling code here:
      // TODO add your handling code here:
             //Document saveFile = new Document(); 
 
-         try {
+         try 
+         {
             String input = "";
-
             input = saveDoc_textField.getText();
             //input = JOptionPane.showInputDialog(null,"Enter Document Name");
             //Create new file and writer and buff objects
@@ -634,14 +692,13 @@ public class GPACalculator extends javax.swing.JFrame {
             jPanel2.setVisible(false);
             saveDoc_textField.setVisible(false);
             save_boxLabel.setVisible(false);
-            save_button.setVisible(false);
-            
-           
+            save_button.setVisible(false);      
 
-         }
-           catch (Exception ex) {
-             //Logger.getLogger(BrickProgram.class.getName()).log(Level.SEVERE, null, ex);
-         }
+        }
+        catch (Exception ex)
+        {
+            //Logger.getLogger(BrickProgram.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
     }//GEN-LAST:event_save_buttonActionPerformed
 // <editor-fold defaultstate="collapsed" desc="Clear credit Text Box">
@@ -685,6 +742,15 @@ public class GPACalculator extends javax.swing.JFrame {
          // Clear text box to allow user to enter number of credits
         creditsClass8_textBox.setText("");
     }//GEN-LAST:event_creditsClass8_textBoxMouseClicked
+
+    private void resetTextArea_buttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetTextArea_buttonActionPerformed
+        //Reset Student info text area
+        studentInfo.setText(null);
+    }//GEN-LAST:event_resetTextArea_buttonActionPerformed
+
+    private void springJRButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_springJRButtonActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_springJRButtonActionPerformed
                                // </editor-fold>    
     /**
      * @param args the command line arguments
@@ -750,6 +816,8 @@ public class GPACalculator extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -761,10 +829,11 @@ public class GPACalculator extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea jTextArea2;
+    private javax.swing.JPanel reset;
+    private javax.swing.JButton resetTextArea_button;
     private javax.swing.JButton reset_button;
     private javax.swing.JLabel saveDoc_label;
     private javax.swing.JTextField saveDoc_textField;
