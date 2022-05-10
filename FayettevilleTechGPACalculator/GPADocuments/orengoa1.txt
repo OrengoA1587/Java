@@ -1,0 +1,6 @@
+Student Semester Information
+**********************************
+Semester: 
+Name:  
+Student GPA: 3.31
+*****************************

@@ -657,6 +657,19 @@ public class GPACalculator extends javax.swing.JFrame {
         creditsClass7_textBox.setText("0");
         creditsClass8_textBox.setText("0");
         
+        LetterGrade1_comboBox.setSelectedItem("    ");
+        LetterGrade2_comboBox.setSelectedItem("    ");
+        LetterGrade3_comboBox.setSelectedItem("    ");
+        LetterGrade4_comboBox.setSelectedItem("    ");
+        LetterGrade5_comboBox.setSelectedItem("    ");
+        LetterGrade6_comboBox.setSelectedItem("    ");
+        LetterGrade7_comboBox.setSelectedItem("    ");        
+        LetterGrade8_comboBox.setSelectedItem("    ");
+        
+        springJRButton.setSelected(false);
+        summerJRButton.setSelected(false);
+        fallJRButton.setSelected(false);
+        
 //        studentInfo.setText("");
         // </editor-fold>
     }//GEN-LAST:event_reset_buttonActionPerformed
