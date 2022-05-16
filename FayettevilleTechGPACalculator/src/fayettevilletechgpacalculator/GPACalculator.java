@@ -557,9 +557,7 @@ public class GPACalculator extends javax.swing.JFrame {
          
     }//GEN-LAST:event_calc_buttonActionPerformed
      //Get GPA-----------------------------------------------------------------/
-    private Double GetGPA(double points,double credits){
-       
-        
+    private Double GetGPA(double points,double credits){       
         double GPA = points/credits;         
         return GPA;
     }
