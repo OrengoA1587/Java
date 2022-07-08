@@ -1,0 +1,155 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 2, 2022, 11:41:35 AM
+    Author     : oreng
+*/
+ html{
+     
+    background-image: url("MainPageImage.jpg") ;
+    background: url("MainPageImage.jpg") no-repeat center center #000 fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:  contain;
+}
+body{
+    background-color: transparent;
+} 
+
+nav{
+   background-color: #fff;; 
+} 
+.navbar-brand {
+    font-size: 2rem;
+    color: #fff; 
+}
+.nav-item{
+    font-size: 1.5rem;
+    color: #fff; 
+}
+form{
+  border:1px solid #003380;
+  padding:1em;
+  margin:1em;
+  border-radius:5px; 
+  display:block;
+  min-width:25em;   
+}  
+.form-control-gpa{
+    height: 82rem ;
+    margin-left: 5rem; 
+    margin-top: 3rem;
+    width: 1000px;
+    background-color: white;
+    position: absolute;
+    border:3px solid #003380;   
+    border-radius:5px;
+    font-family: Playfair Display;    
+    min-width:25em;
+     
+    background: linear-gradient(-180deg, #80bdff  30%, #fff 50%), url('planets.jpg');
+ }
+
+.container-fluid{
+    width: available;
+    margin-right: 0px;
+    margin-left: 600px;
+    margin-top: 650px;
+    height: auto;
+}
+.table-explanantion
+{
+   flex-wrap: wrap;
+   font-size: 1.5rem;
+   margin-top: 3rem;
+   border-color: #002752; 
+   border: #000 5px solid;    
+}
+.form-header{
+    margin-left: -17rem;
+     
+    font-size: 3rem;
+    font-family: Playfair Display; 
+}
+.form-header2{
+    margin-left: -4rem;
+     
+    font-size: 2rem;
+    font-family: Playfair Display; 
+}
+.form-label{
+    font-size: 2rem;
+    font-family: playfair display;    
+    margin-right: 50px;
+       
+}
+.form-select{
+    width: 7rem;
+    margin-left: 2rem;
+    height: 4rem;
+    font-size: 1.3rem;
+    
+}
+.form-select2{
+    width: 7rem;
+    margin-left: 7rem;
+    height: 4rem;
+    font-size: 1.3rem;
+}
+.container-lg{
+    
+    width: 250vw !important;
+    
+}
+.form-control{
+    margin-top: 2rem;
+    width: auto;
+}
+.submit-btn{
+  color: #000;
+  background-color: #ffc107 ;
+  border-color:  #002752; 
+  border: #000 3px solid; 
+}
+.submit-btn{
+  
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: .9rem;
+  font-weight: 700;
+  letter-spacing: .1rem;
+}
+.submit-btn{
+  
+ border-radius: 2rem;
+ margin-right: 3rem;
+ margin-left: 5rem;
+ margin-top: 3rem;
+}
+.submit-btn:hover{
+  background-color: #80bdff;
+  
+}
+.gpa-input{
+    width: 15rem;
+    height:3rem;
+    font-size: 2rem;
+    font-family: Playfair Display;  
+    border-radius: .5rem;
+    margin-top: 3rem;
+}
+.form-label{
+     margin-top: 1rem;
+     margin-left: 5rem;
+}
+ .current-gpa-label{
+    font-size: 2rem;
+    font-family: Playfair Display;  
+    margin-left: 10rem;
+    margin-right: 2rem;
+    margin-top: 3.5rem;    
+}

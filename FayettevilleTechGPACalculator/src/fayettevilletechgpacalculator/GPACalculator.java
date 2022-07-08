@@ -314,6 +314,11 @@ public class GPACalculator extends javax.swing.JFrame {
         reset.add(creditsClass1_textBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 250, 50, 20));
 
         LetterGrade1_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        LetterGrade1_comboBox.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                LetterGrade1_comboBoxActionPerformed(evt);
+            }
+        });
         reset.add(LetterGrade1_comboBox, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 250, -1, -1));
 
         LetterGrade2_comboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
@@ -762,6 +767,10 @@ public class GPACalculator extends javax.swing.JFrame {
     private void springJRButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_springJRButtonActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_springJRButtonActionPerformed
+
+    private void LetterGrade1_comboBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LetterGrade1_comboBoxActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_LetterGrade1_comboBoxActionPerformed
                                // </editor-fold>    
     /**
      * @param args the command line arguments
