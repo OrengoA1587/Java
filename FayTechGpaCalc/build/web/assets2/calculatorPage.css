@@ -7,6 +7,7 @@ and open the template in the editor.
     Created on : Jul 2, 2022, 11:41:35 AM
     Author     : oreng
 */
+/*Main html Tag items--------------------------------------------------------------*/
  html{
      
     background-image: url("MainPageImage.jpg") ;
@@ -23,37 +24,58 @@ body{
 nav{
    background-color: #fff;; 
 } 
+strong{
+    font-size: 2vh;
+    color:  #000; 
+}
+.column-strong{
+    font-size: 2.5vh;
+    margin-left: -4vh;
+    display: inline;
+    align-content: center;
+    justify-content: center;
+}
+td{
+    width:24%;     
+    padding: .5vh;    
+}
 .navbar-brand {
-    font-size: 2rem;
+    font-size: 2vh;
     color: #fff; 
 }
 .nav-item{
-    font-size: 1.5rem;
+    font-size: 1.5vh;
     color: #fff; 
 }
+/*Main html Tag items--------------------------------------------------------------*/
+
+/*Form Items------------------------------------------------------------*/
 form{
-  border:1px solid #003380;
-  padding:1em;
-  margin:1em;
-  border-radius:5px; 
-  display:block;
-  min-width:25em;   
+    border:1px solid #003380;
+    padding:1vh;
+    margin:1vh;
+    border-radius:5px; 
+    display:block;
+    min-width:25vh;   
 }  
 .form-control-gpa{
-    height: 82rem ;
-    margin-left: 5rem; 
-    margin-top: 3rem;
-    width: 1000px;
-    background-color: white;
-    position: absolute;
+    max-height: 100vh;
+    min-height: 50vh;
+    min-width:45vh;
+    max-width: 75vh; 
+    align-self: center;
     border:3px solid #003380;   
     border-radius:5px;
-    font-family: Playfair Display;    
-    min-width:25em;
-     
+    font-family: Playfair Display;     
     background: linear-gradient(-180deg, #80bdff  30%, #fff 50%), url('planets.jpg');
  }
-
+ .container-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+ }
+     
 .container-fluid{
     width: available;
     margin-right: 0px;
@@ -61,95 +83,97 @@ form{
     margin-top: 650px;
     height: auto;
 }
-.table-explanantion
-{
-   flex-wrap: wrap;
-   font-size: 1.5rem;
-   margin-top: 3rem;
-   border-color: #002752; 
-   border: #000 5px solid;    
-}
 .form-header{
-    margin-left: -17rem;
+    margin-left: -17vh;
      
-    font-size: 3rem;
+    font-size: 3vh;
     font-family: Playfair Display; 
 }
 .form-header2{
-    margin-left: -4rem;
+    margin-left: -4vh;
      
-    font-size: 2rem;
+    font-size: 2vh;
     font-family: Playfair Display; 
 }
 .form-label{
-    font-size: 2rem;
+    font-size: 2vh;
     font-family: playfair display;    
     margin-right: 50px;
+    margin-top: 3vh;
        
 }
 .form-select{
-    width: 7rem;
-    margin-left: 2rem;
-    height: 4rem;
-    font-size: 1.3rem;
+    width: 7vh;
+    margin-left: 1vh;    
+    margin-top: 1vh;
+    height: 4vh;
+    font-size: 1.3vh;
     
 }
 .form-select2{
-    width: 7rem;
-    margin-left: 7rem;
-    height: 4rem;
-    font-size: 1.3rem;
-}
-.container-lg{
-    
-    width: 250vw !important;
-    
-}
-.form-control{
-    margin-top: 2rem;
-    width: auto;
+    width: 7vh;
+    margin-left: 1vh;
+    margin-top: 1vh;
+    height: 4vh;
+    font-size: 1.3vh;
 }
 .submit-btn{
-  color: #000;
-  background-color: #ffc107 ;
-  border-color:  #002752; 
-  border: #000 3px solid; 
+    text-transform: uppercase;
+    padding: 1.5vh 3vh;
+    font-size: .9vh;
+    font-weight: 700;
+    letter-spacing: .1vh;
 }
 .submit-btn{
-  
-  text-transform: uppercase;
-  padding: 1.5rem 3rem;
-  font-size: .9rem;
-  font-weight: 700;
-  letter-spacing: .1rem;
-}
-.submit-btn{
-  
- border-radius: 2rem;
- margin-right: 3rem;
- margin-left: 5rem;
- margin-top: 3rem;
+    border-radius: 2vh;
+    margin-right: 3vh;
+    margin-left: 5vh;
+    margin-top: 2vh;
 }
 .submit-btn:hover{
-  background-color: #80bdff;
-  
+    background-color: #80bdff;  
 }
 .gpa-input{
-    width: 15rem;
-    height:3rem;
-    font-size: 2rem;
+    width: 15vh;
+    height:3vh;
+    font-size: 2vh;
     font-family: Playfair Display;  
-    border-radius: .5rem;
-    margin-top: 3rem;
+    border-radius: .5vh;
+    margin-top: 1vh;
 }
 .form-label{
-     margin-top: 1rem;
-     margin-left: 5rem;
+    margin-top: 1vh;
+    margin-left: 5vh;
 }
  .current-gpa-label{
-    font-size: 2rem;
+    font-size: 2vh;
     font-family: Playfair Display;  
-    margin-left: 10rem;
-    margin-right: 2rem;
-    margin-top: 3.5rem;    
+    margin-left: 10vh;
+    margin-right: 2vh;
+    margin-top: 3.5vh;    
 }
+/*Form Items------------------------------------------------------------*/
+/*Table Items------------------------------------------------------------*/ 
+.table-explanantion
+{
+    height: 20vh;
+    min-height: 10vh;
+    flex-wrap: wrap;
+    font-size: 1.5vh;
+    margin-top: 1vh;
+    border-color: #002752;      
+} 
+.table-ex{
+    height: 20vh;
+    min-height: 10vh;
+    max-width: 75vh;
+    border: #000 1px  groove   ;
+}
+/*Table Items------------------------------------------------------------*/ 
+.submit-btn{
+    color: #000;
+    background-color: #ffc107 ;
+    border-color:  #002752; 
+    border: #000 3px solid; 
+}
+ 

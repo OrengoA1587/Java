@@ -9,12 +9,12 @@ and open the template in the editor.
 */
 
 html{
-     
+    background-color: transparent;
      
 }
 body{
-  height: auto;
-  width: auto;
+    height: auto;
+    width: auto;
     background-image: url("MainPageImage.jpg") ;
     background: url("MainPageImage.jpg") no-repeat center center #000 fixed; 
     -webkit-background-size: cover;
@@ -22,168 +22,50 @@ body{
     -o-background-size: cover;
     background-size:  contain;     
 }
-.btn-enter{
-   
-  margin-left: 30rem;
-  margin-top: 55rem;
-  position: absolute;
+.btn-enter{   
+    margin-top: 65vh;
+    position:static;  
 } 
+.container-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
 .btn-enter{
-  color: #fff;
-  background-color: #fff ;
-  border: #fff 3px solid;  
-  
-   position: absolute;
-   left: 45%;
-   top: 25%;
-   transform: translate(-300%,-300%);
-
+    background-color: #fff ;
+    border: #fff 3px solid;  
+    color: #fff;   
+    font-family: microsoft himalayan;
+    font-size: 2.5vh;
+    font-weight: 900;
+    letter-spacing: .1vh;
+    padding: 1.5vh 3vh;
 }
  
 .btn-enter, .btn-enter:focus{
-  color:  #000;
-  border-color: #fff !important;
-  text-decoration: none;
+    color:  #000;
+    border-color: #fff !important;
+    text-decoration: none;
 }
 .btn-enter:checked + .btn-enter, .btn-enter:active + .btn-enter, .btn-enter:active, .btn-enter.active{
-  color: #000;
-  background-color:  #0056b3;
-  border-color:  #fff;
+    color: #000;
+    background-color:  #0056b3;
+    border-color:  #fff;
 }
 .btn-enter:focus + .btn-primary, .btn-primary:focus {
-  color: #000;
-  background-color: #fff;
-  border-color:  #fff;
-}
- 
- 
-.btn-enter {
-  text-align: center;
-  text-transform: uppercase;
-  padding: 1.5rem 3rem;
-  font-size: .9rem;
-  font-weight: 700;
-  letter-spacing: .1rem;
+    color: #000;
+    background-color: #fff;
+    border-color:  #fff;
 }
 .btn-enter {
-  border-radius: 1rem !important;
+    border-radius: 1vh !important;
+    border:  #000 .5vh solid !important;
+} 
+.btn-enter:hover{
+    color:  #000;
+    background-color: #80bdff;
+    border: #fff .5vh solid !important;
+    text-decoration: none;
 }
  
- .btn-enter:hover{
-  color:  #000;
-  background-color: #80bdff;
-  text-decoration: none;
-}
-@media only screen and (max-width: 3000px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 17%;
-   transform: translate(-300%,-300%);
-
-}
-}
-@media only screen and (max-width: 2800px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 17%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 2600px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 17%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 2400px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 17%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 2200px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 17%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 2000px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 14%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 1800px) {
-  .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 13%;
-   transform: translate(-300%,-300%);
-
-}
-} 
-@media only screen and (max-width: 1600px) {
-   .btn-enter{  
-   position: absolute;
-   left: 45%;
-   top: 13%;
-   transform: translate(-300%,-300%);
-
-}
-}
-@media only screen and (max-width: 1200px) {
-   .btn-enter{  
-   position: absolute;
-   left: 40%;
-   top: 10%;
-   transform: translate(-300%,-300%);
-
-}
-}
-@media only screen and (max-width: 1000px) {
-   .btn-enter{  
-   position: absolute;
-   left: 39%;
-   top: 10%;
-   transform: translate(-300%,-300%);
-
-}
-}
-@media only screen and (max-width: 800px){
-   .btn-enter{  
-   position: absolute;
-   left: 39%;
-   top: 9%;
-   transform: translate(-300%,-300%);
-
-}
-}
-
-@media only screen and (max-height:1000px) {
-   .btn-enter{  
-   position: absolute;
-   left: 39%;
-   top: -10%;
-   transform: translate(-300%,-300%);
-
-}
-}
-
-
-
 
