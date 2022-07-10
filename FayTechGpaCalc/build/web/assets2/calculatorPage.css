@@ -7,6 +7,7 @@ and open the template in the editor.
     Created on : Jul 2, 2022, 11:41:35 AM
     Author     : oreng
 */
+/*<img class="item-co-logo" src="assets/images/FtccLogoTrojan2.png" height="60" width="60">&nbsp;&nbsp;&nbsp;*/
 /*Main html Tag items--------------------------------------------------------------*/
  html{
      
@@ -19,8 +20,14 @@ and open the template in the editor.
 }
 body{
     background-color: transparent;
+    touch-action: none;
 } 
-
+.item-co-logo{
+    border-radius: 1vh;
+    height: 6vh;
+    width: 6vh;
+}
+ 
 nav{
    background-color: #fff;; 
 } 
@@ -47,6 +54,13 @@ td{
     font-size: 1.5vh;
     color: #fff; 
 }
+.nav-item a:hover{
+    font-size: 3.0vh;
+    color:   #ffc107; 
+    text-decoration: #000 solid underline;
+}
+ 
+ 
 /*Main html Tag items--------------------------------------------------------------*/
 
 /*Form Items------------------------------------------------------------*/
@@ -58,18 +72,15 @@ form{
     display:block;
     min-width:25vh;   
 }  
-.form-control-gpa{
-    max-height: 100vh;
-    min-height: 50vh;
-    min-width:45vh;
-    max-width: 75vh; 
+.form-control-gpa{     
     align-self: center;
-    border:3px solid #003380;   
+    border:1px solid  #000;   
     border-radius:5px;
     font-family: Playfair Display;     
     background: linear-gradient(-180deg, #80bdff  30%, #fff 50%), url('planets.jpg');
  }
  .container-form{
+     
     display: flex;
     align-items: center;
     justify-content: center;
@@ -81,7 +92,7 @@ form{
     margin-right: 0px;
     margin-left: 600px;
     margin-top: 650px;
-    height: auto;
+    
 }
 .form-header{
     margin-left: -17vh;
@@ -126,6 +137,7 @@ form{
 }
 .submit-btn{
     border-radius: 2vh;
+    border: .1vh;
     margin-right: 3vh;
     margin-left: 5vh;
     margin-top: 2vh;

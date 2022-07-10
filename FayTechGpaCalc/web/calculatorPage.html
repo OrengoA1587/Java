@@ -11,31 +11,29 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         
-        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
-        <link rel="stylesheet" type="text/css" href="assets2/calculatorPage.css">
-      
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min_1.css">
+        <link rel="stylesheet" type="text/css" href="assets2/calculatorPage.css">       
+        <link rel="stylesheet" href="assets/css/Navigation-Clean.css">   
+        <link rel="stylesheet" href="assets/css/Navigation-with-Button.css"> 
+        <link rel="stylesheet" href="assets/css/styles.css">
     </head>     
     <body >     
-        <div id="wrapper">
-             <nav class="navbar navbar-light navbar-expand-lg navigation-clean">
-        <div class="container"><a class="navbar-brand" href="index.html">FTCC Home</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
+        <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
+            <div class="container"> <a class="home-main" href="index.html"><img class="item-co-logo" src="assets/images/FtccLogoTrojan2.png"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+               <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link active" href="https://faytechcc.blackboard.com/">Blackboard</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Self Service</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Third Item</a></li>
-                     
+                    <li class="nav-item"><a class="nav-link" href="https://www.faytechcc.edu/">FTCC Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://faytechcc.blackboard.com/?new_loc=%2Fultra%2Fcourse">Blackboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://selfserv.faytechcc.edu/">Self Service</a></li>
                 </ul>
             </div>
-        </div>
-    </nav>
-        </div>
+            </div>
+        </nav>
         <div class="container-form">
                 
                        <form class="form-control-gpa " id="wrapper2" onclick="Calculate()" >  
                             
-                           <table class="form-table">
+                           <table class="form-table" id="gpatable">
                                <tbody>
                                    
                                    <tr>
@@ -55,7 +53,7 @@ and open the template in the editor.
                                            <strong>Class 1</strong>
                                        </td>                                        
                                        <td>
-                                           <select class="form-select" id="row1Letter" name="row1Letter">
+                                           <select class="form-select" id="row1Letter" name="row1Letter" required>
                                                 <optgroup label="Letter Grade">
                                                     <option value="0" ></option>
                                                     <option value="4">A</option>
@@ -320,9 +318,10 @@ and open the template in the editor.
                                 </table>
                             </div>
                         </form>
-                    </div>
-              
-         
-        <script src="assets/js/CalculateGPAScore.js"></script>    
+                    </div>       
+        <script src="assets/js/CalculateGPAScore.js"></script> 
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/bs-init.js"></script>
     </body>
 </html>
