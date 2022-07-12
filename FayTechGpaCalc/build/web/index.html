@@ -25,6 +25,8 @@ and open the template in the editor.
                     <li class="nav-item"><a class="nav-link" href="https://faytechcc.blackboard.com/?new_loc=%2Fultra%2Fcourse">Blackboard</a></li>
                     <li class="nav-item"><a class="nav-link" href="https://selfserv.faytechcc.edu/">Self Service</a></li>
                 </ul>
+                <span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" href="indexAdminLogin.jsp" data-target="#user-login" data-toggle="modal" >Log In</a></span>
+   
             </div>
             </div>
         </nav>
@@ -34,6 +36,41 @@ and open the template in the editor.
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/js/bs-init.js"></script>
+         <!--Modal Controllers//////-->
+     <div  id="user-login" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+    
+        <div class="modal-content">
+            <div class="modal-body">
+                <button data-dismiss="modal" class="close">&Chi;</button>
+                <section class="login-container">
+                  <form class="form-login-popup" action="systemLoginAction.jsp" method="post">
+                    
+                    <h2>Login</h2>
+              
+                    <div class="form-group"> 
+                        <input type="text" name="UserID" placeholder="Enter Username">
+                    </div>
+                    
+                    <div class="form-group"> 
+                        <input type="password" name="password" placeholder="Enter Password">
+                    </div> 
+                    <div class="form-group"> 
+                        <button class="modal-submit-btn" type="submit" value="Submit">Submit</button>
+                    </div> 
+                    
+                    <div class="form-group"> 
+                        <span>Need an account? &nbsp;<a class="reg-link" href="adminVerification.jsp">Register</a></span>
+                     </div> 
+                    <div class="form-group"> 
+                        <span> <a class="reg-link" href="resetPassword.jsp">Forgot Username/Password</a></span>
+                    </div> 
+                </form> 
+                </section>
+            </div>
+        </div>
+    </div>  
+    </div>
     </body>
     
 </html>

@@ -7,7 +7,7 @@ and open the template in the editor.
     Created on : Jun 29, 2022, 4:26:41 PM
     Author     : oreng
 */
-
+/* School Color #f1b725*/
 html{
     background-color: #000  ;
      
@@ -68,4 +68,61 @@ body{
     text-decoration: none;
 }
  
+.modal-submit-btn
+{
+     
+    background-color: #f1b725;
+    border: #fff 3px solid;  
+    border-radius: 2vh;
+    color: #000;   
+    font-family: microsoft himalayan;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: .1vh;
+    padding: 1.5vh 3vh;
+}
+.modal-submit-btn:hover{
+    color:  #000;
+    background-color: #80bdff;
+    border: #fff .5vh solid !important;
+    text-decoration: none;
+}
+.modal fade{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+      width: 45vh;
+    border: none;
+}
+.modal fade{
+   font-family: microsoft himalayan;     
+   
+}
+ 
+.modal-content{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background: transparent;
+    border: none;
+    
+}
+.reg-link
+{
+   font-family: microsoft himalayan;
+   font-size: 20px; 
+    
+}
+.login-container{
+     
+    padding:-11vh;
+    margin:-2vh;
+    border-radius:5px; 
+    display:block;
+    min-width:25vh; 
+     
+}
+.form-login-popup{
+    background-color:  #fff;
 
+}
