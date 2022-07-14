@@ -10,17 +10,18 @@ and open the template in the editor.
 /* School Color #f1b725*/
 html{
     background-color: #000  ;
-     
+    
 }
 body{
     height: auto;
     width: auto;
+    
     background-image: url("MainPageImage.jpg") ;
     background: url("MainPageImage.jpg") no-repeat center center #000 fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size:  contain;     
+    background-size:  inherit;     
 }
 .btn-enter{   
     margin-top: 65vh;

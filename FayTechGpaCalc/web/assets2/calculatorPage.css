@@ -24,8 +24,9 @@ body{
 } 
 .item-co-logo{
     border-radius: 1vh;
-    height: 6vh;
-    width: 6vh;
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
 }
  
 nav{
@@ -47,19 +48,38 @@ td{
     padding: .5vh;    
 }
 .navbar-brand {
-    font-size: 2vh;
+    font-size: 20px;
     color: #fff; 
+   
 }
 .nav-item{
-    font-size: 1.5vh;
+    font-size: 20px;
     color: #fff; 
+     
+
 }
 .nav-item a:hover{
-    font-size: 3.0vh;
-    color:   #ffc107; 
-    text-decoration: #000 solid underline;
+     
+    color:  #000; 
+    text-decoration: #000;
+    box-shadow:  #ffc107 0px -50px 36px -28px inset;
 }
- 
+.nav-links.active,.nav-links.active:focus,.nav-links.active:hover {
+  color:  #8f8f8f;
+  box-shadow: none;
+  background: none;
+  pointer-events: none;
+}
+
+.nav-links {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-links {
+  color: #000;
+}
+
  
 /*Main html Tag items--------------------------------------------------------------*/
 

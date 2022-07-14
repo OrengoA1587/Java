@@ -99,6 +99,7 @@ nav a {
 .navigation-clean-button.navbar .navbar-nav .nav-link {
   padding-left: 18px;
   padding-right: 18px;
+  padding-bottom: 18px;
 }
 
 .navigation-clean-button.navbar-light .navbar-nav .nav-link {
