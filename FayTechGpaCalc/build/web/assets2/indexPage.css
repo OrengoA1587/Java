@@ -9,20 +9,24 @@ and open the template in the editor.
 */
 /* School Color #f1b725*/
 html{
-    background-color: #000  ;
+    background-color:  #FFF  ;
     
 }
 body{
-    height: auto;
-    width: auto;
-    
-    background-image: url("MainPageImage.jpg") ;
-    background: url("MainPageImage.jpg") no-repeat center center #000 fixed; 
-    -webkit-background-size: cover;
+      
+}
+.background-page{
+    height: 80vh;
+    width:auto;
+    margin-top:-20px;
+    background-image: url("images/MainPageImage.jpg");
+     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size:  inherit;     
-}
+    background-size: contain; 
+    background-position: center;
+    background-repeat: no-repeat;
+ }
 .btn-enter{   
     margin-top: 65vh;
     position:static;  
@@ -63,8 +67,8 @@ body{
     border:  #000 .5vh solid !important;
 } 
 .btn-enter:hover{
-    color:  #000;
-    background-color: #80bdff;
+    color:  #FFF;
+    background-color:  #000;
     border: #fff .5vh solid !important;
     text-decoration: none;
 }

@@ -11,17 +11,31 @@ and open the template in the editor.
 /*Main html Tag items--------------------------------------------------------------*/
  html{
      
-    background-image: url("MainPageImage.jpg") ;
-    background: url("MainPageImage.jpg") no-repeat center center #000 fixed; 
-    -webkit-background-size: cover;
+ 
+ }
+.background-page-calcu{
+    height: 85vh;
+    width:auto;
+    margin-top:-20px;
+       -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size:  contain;
-}
+    background-size: contain; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background: linear-gradient(120deg, #fff 50%, #ffc107  60%);
+
+ }
 body{
-    background-color: transparent;
-    touch-action: none;
-} 
+ }     
+
+.image-logo{
+    height:20vh;
+    width:20vh;
+     background-position: center;
+     background-repeat: no-repeat;
+    margin-left: 10vh;
+}
 .item-co-logo{
     border-radius: 1vh;
     margin-right: 10px;
@@ -30,7 +44,7 @@ body{
 }
  
 nav{
-   background-color: #fff;; 
+   background-color: #000;; 
 } 
 strong{
     font-size: 2vh;
@@ -94,10 +108,11 @@ form{
 }  
 .form-control-gpa{     
     align-self: center;
-    border:1px solid  #000;   
-    border-radius:5px;
+    border:1px solid  #000; 
+     border-radius:5px;
     font-family: Playfair Display;     
-    background: linear-gradient(-180deg, #80bdff  30%, #fff 50%), url('planets.jpg');
+    background: linear-gradient(-180deg, #fff  30%, #fff 50%), url('planets.jpg');
+    
  }
  .container-form{
      
@@ -105,8 +120,17 @@ form{
     align-items: center;
     justify-content: center;
     margin-top: 5vh;
+   
+    
  }
-     
+ .container-box1{
+     float: right;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+ }    
+ 
 .container-fluid{
     width: available;
     margin-right: 0px;
@@ -163,7 +187,9 @@ form{
     margin-top: 2vh;
 }
 .submit-btn:hover{
-    background-color: #80bdff;  
+    background-color:  #fff;
+    color: #000;
+    border-color: #ffc107;
 }
 .gpa-input{
     width: 15vh;
@@ -193,7 +219,19 @@ form{
     flex-wrap: wrap;
     font-size: 1.5vh;
     margin-top: 1vh;
-    border-color: #002752;      
+    border-color: #002752;     
+    background-color: #FFF;
+} 
+.table-explanantion2
+{
+    height: 20vh;
+    min-height: 10vh;
+    width: 50vh;
+    flex-wrap: wrap;
+    font-size: 1.5vh;
+    margin-top: 1vh;
+    border-color: #002752;     
+    background-color: #FFF;
 } 
 .table-ex{
     height: 20vh;
