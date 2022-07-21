@@ -90,14 +90,16 @@ body{
     color:  #000;
     background-color: #fff;
     border: #007bff 2px solid !important;
+       font-family: microsoft himalayan;     
+
     text-decoration: none;
-    font-size: 18px;
+    font-size: 22px;
 }
 .modal fade{
     display: flex;
     align-items: center;
     justify-content: center; 
-      width: 45vh;
+    width: 45vh;
     border: none;
 }
 .modal fade{
@@ -111,7 +113,8 @@ body{
     justify-content: center; 
     background: transparent;
     border: none;
-    
+    font-family: microsoft himalayan;     
+
 }
 .reg-link
 {
@@ -120,7 +123,7 @@ body{
     
 }
 .login-container{
-     
+    background: linear-gradient(to top, #ffc107 100%, transparent 50%);
     padding:-11vh;
     margin:-2vh;
     border-radius:5px; 

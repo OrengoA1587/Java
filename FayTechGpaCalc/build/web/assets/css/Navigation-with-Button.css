@@ -9,8 +9,8 @@
   border: none;
   margin-bottom: 0;
 }
-.container{
-    background-color:  #fff;
+.container-footer{
+    background-color:   #000;
 }
 @media (min-width:768px) {
   .navigation-clean-button {
