@@ -10,14 +10,14 @@ and open the template in the editor.
         <title>FTCC GPA Calculator</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        
+ 
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="assets2/calculatorPage.css">       
         <link rel="stylesheet" href="assets/css/Navigation-Clean.css">   
         <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
-        <link rel="stylesheet" type="text/css" href="assets2/indexPage.css">
-        <link rel="stylesheet" href="assets/css/styles.css">
-        
+        <link rel="stylesheet" href="assets/css/styles.css">     
+        <link rel="stylesheet" href="assets2/loginModal.css">        
+
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
         <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
         <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
@@ -26,17 +26,15 @@ and open the template in the editor.
         <link rel="stylesheet" href="assets/css/Footer-Dark.css">
     </head>     
     <body >     
-        <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
-            <div class="container"> <button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+         <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
+            <div class="container"> <a class="home-main" href="studentDashboard.html"><img class="item-co-logo" src="assets/images/FTCCLogo3.PNG"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
                <div class="collapse navbar-collapse" id="navcol-1">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="home-main" href="index.html"><img class="item-co-logo" src="assets/images/FTCCLogo3.PNG" alt="logo"></a> </li>
-
                         <li class="nav-item"><a class="nav-links" href="https://www.faytechcc.edu/">FTCC Home</a></li>
                         <li class="nav-item"><a class="nav-links" href="https://faytechcc.blackboard.com/?new_loc=%2Fultra%2Fcourse">Blackboard</a></li>
                         <li class="nav-item"><a class="nav-links" href="https://selfserv.faytechcc.edu/">Self Service</a></li>
-                        <li class="nav-item"> <a class="nav-links" role="button" href="indexAdminLogin.jsp" data-target="#user-login" data-toggle="modal" >Log In</a></li>
-                    </ul> 
+                        <!-- <li class="nav-item"> <a class="nav-links" role="button" href="indexAdminLogin.jsp" data-target="#user-login" data-toggle="modal" >Log In</a></li> -->
+                    </ul>
                 </div>
             </div>
         </nav>
@@ -334,14 +332,7 @@ and open the template in the editor.
                         </form>
                 
             </div>
-             <footer class="footer-dark">
-        <div class="container">
-            <div class="row">
-                <div class="col item social"><a href="#"><i class="ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
-            </div>
-            <p class="copyright">Fayetteville Technical Community College © 1961</p>
-        </div>
-        </footer> 
+              
         </div>
          
           <!--Modal Controllers//////-->
@@ -379,7 +370,14 @@ and open the template in the editor.
             </div>
         </div>  
         </div>
-           
+        <footer class="footer-dark">
+            <div class="container-footer">
+                 <div class="row">
+                    <div class="col item social"><a href="https://www.facebook.com/FAYTECHCC/"><i class="icon ion-social-facebook"></i></a><a href="https://twitter.com/FAYTECHCC"><i class="icon ion-social-twitter"></i></a><a href="https://www.youtube.com/channel/UC6UeI2Av47gbem_mTZEa1Ww"><i class="icon ion-social-youtube"></i></a><a href="https://www.instagram.com/faytechcc/?hl=en"><i class="icon ion-social-instagram"></i></a></div>
+                </div>
+                <p class="copyright">Fayetteville Technical Community College © 1961</p>
+            </div>
+        </footer>  
         <script src="assets/js/CalculateGPAScore.js"></script> 
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/bootstrap/js/bootstrap.min.js"></script>

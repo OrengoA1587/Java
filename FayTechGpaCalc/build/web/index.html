@@ -4,26 +4,26 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-
+<html> 
     <head>
         <title>ManagementSystems</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="assets2/indexPage.css">
+        <link rel="stylesheet" type="text/css" href="assets2/calculatorPage.css"> 
         <link rel="stylesheet" href="assets/css/Navigation-Clean.css">   
         <link rel="stylesheet" href="assets/css/Navigation-with-Button.css"> 
-        <link rel="stylesheet" href="assets/css/styles.css">
-        <link rel="stylesheet" type="text/css" href="assets2/calculatorPage.css">
-        <link rel="stylesheet" type="text/css" href="assets2/indexPage.css">
+        <link rel="stylesheet" href="assets/css/styles.css">     
+           
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
         <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
         <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
         <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
         <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
         <link rel="stylesheet" href="assets/css/Footer-Dark.css">
-
-    </head>
-    
+     </head>
+    <body> 
         <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
             <div class="container"> <a class="home-main" href="index.html"><img class="item-co-logo" src="assets/images/FTCCLogo3.PNG"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
                <div class="collapse navbar-collapse" id="navcol-1">
@@ -38,56 +38,61 @@ and open the template in the editor.
         </nav>
         <div class="background-page">
         <div class=" container-form">
-            <a class="btn-enter" href="calculatorPage.html">Enter</a>             
+            <!--<a class="btn-enter" href="calculatorPage.html">Enter</a> -->            
         </div> 
          
-         <!--Modal Controllers//////-->
+         
+          
+        </div>
         <div  id="user-login" class="modal fade" role="dialog">
             <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <button data-dismiss="modal" class="close">&Chi;</button>
-                        <section class="login-container">
-                          <form class="form-login-popup" action="systemLoginAction.jsp" method="post">
 
-                            <h4>Student Login</h4>
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button data-dismiss="modal" class="close">&Chi;</button>
+                    <section class="login-container">
+                      <form class="form-login-popup" method="post" id="login">
 
-                            <div class="form-group"> 
-                                <input type="text" name="UserID" placeholder="Enter Username">
-                            </div>
+                        <h2>Login</h2>
 
-                            <div class="form-group"> 
-                                <input type="password" name="password" placeholder="Enter Password">
-                            </div> 
-                            <div class="form-group"> 
-                                <button class="modal-submit-btn" type="submit" value="Submit">Submit</button>
-                            </div> 
+                        <div class="form-group"> 
+                            <input type="text" name="username" id="username" placeholder="Enter Username"/>
+                        </div>
 
-                            <div class="form-group"> 
-                                <span>Need an account? &nbsp;<a class="reg-link" href="adminVerification.jsp">Register</a></span>
-                             </div> 
-                            <div class="form-group"> 
-                                <span> <a class="reg-link" href="resetPassword.jsp">Forgot Username/Password</a></span>
-                            </div> 
-                        </form> 
-                        </section>
-                    </div>
+                        <div class="form-group"> 
+                            <input type="password" name="password" id="password" placeholder="Enter Password"/>
+                        </div> 
+                        <div class="form-group"> 
+                            <input type="button" value="Login" id="submit" onclick="validate()"/>                            
+                        </div> 
+
+                        <div class="form-group"> 
+                            <span>Need an account? &nbsp;<a class="reg-link" href="adminVerification.jsp">Register</a></span>
+                         </div> 
+                        <div class="form-group"> 
+                            <span> <a class="reg-link" href="resetPassword.jsp">Forgot Username/Password</a></span>
+                        </div> 
+                    </form> 
+                    </section>
                 </div>
-            </div>  
-        </div>
+            </div>
+        </div>  
         </div>
         <footer class="footer-dark">
             <div class="container-footer">
                  <div class="row">
-                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                    <div class="col item social"><a href="https://www.facebook.com/FAYTECHCC/"><i class="icon ion-social-facebook"></i></a><a href="https://twitter.com/FAYTECHCC"><i class="icon ion-social-twitter"></i></a><a href="https://www.youtube.com/channel/UC6UeI2Av47gbem_mTZEa1Ww"><i class="icon ion-social-youtube"></i></a><a href="https://www.instagram.com/faytechcc/?hl=en"><i class="icon ion-social-instagram"></i></a></div>
                 </div>
                 <p class="copyright">Fayetteville Technical Community College © 1961</p>
             </div>
         </footer>
         <!--Scripts------------------------------------------------------------ -->
+                <script src="assets/js/loginAction.js"></script>
+
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/js/bs-init.js"></script>
-        
-
+         
+    </body>      
+</html>
 

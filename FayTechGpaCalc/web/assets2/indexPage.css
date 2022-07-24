@@ -10,10 +10,10 @@ and open the template in the editor.
 /* School Color #f1b725*/
 html{
     background-color: #000;
-    
+  
 }
 body{
-      background-color: #000;
+    background: linear-gradient(120deg, #000 90%, #fff  60%); 
 }
 .background-page{
     height: 80vh;
@@ -26,6 +26,7 @@ body{
     background-size: contain; 
     background-position: center;
     background-repeat: no-repeat;
+    
  }
 .btn-enter{   
     margin-top: 65vh;
@@ -76,7 +77,7 @@ body{
 .modal-submit-btn
 {
      
-    background-color: #f1b725;
+    background-color: #f1b725 !important;
     border: #fff 3px solid;  
     border-radius: 2vh;
     color: #000;   
@@ -134,4 +135,71 @@ body{
 .form-login-popup{
     background-color:  #fff;
 
+}
+/*Extra*/
+.image-logo{
+    height:20vh;
+    width:20vh;
+     background-position: center;
+     background-repeat: no-repeat;
+    margin-left: 10vh;
+}
+.item-co-logo{
+    float: left;
+    border-radius: 1vh;
+    margin-right: 30px;
+    height: 2em;
+    width: 3em;
+}
+ 
+nav{
+   background-color: #000;; 
+} 
+strong{
+    font-size: 2vh;
+    color:  #000; 
+}
+.column-strong{
+    font-size: 2.5vh;
+    margin-left: -4vh;
+    display: inline;
+    align-content: center;
+    justify-content: center;
+}
+td{
+    width:24%;     
+    padding: .5vh;    
+}
+.navbar-brand {
+    font-size: 20px;
+    color: #fff; 
+   
+}
+.nav-item{
+    font-size: 20px;
+    color: #fff; 
+     
+
+}
+.nav-item a:hover{
+     
+    color:  #000; 
+    text-decoration: #000;
+    box-shadow:  #ffc107 0px -50px 36px -28px inset;
+    border-radius: 1vh;
+}
+.nav-links.active,.nav-links.active:focus,.nav-links.active:hover {
+  color:  #8f8f8f;
+  box-shadow: none;
+  background: none;
+  pointer-events: none;
+}
+
+.nav-links {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-links {
+  color: #000;
 }
