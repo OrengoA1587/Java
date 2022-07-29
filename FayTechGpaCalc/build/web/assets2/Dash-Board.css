@@ -4,10 +4,11 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Jun 29, 2022, 4:26:41 PM
+    Created on : Jul 29, 2022, 7:13:24 PM
     Author     : oreng
 */
-/* School Color #f1b725*/
+
+ 
 html{
     background-color: #000;
   
@@ -19,7 +20,7 @@ body{
     height: 80vh;
     width:auto;
     margin-top:-20px;
-    background-image: url("images/MainPageImage.png");
+    background-image: url("images/DashBoardImage.png");
      -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
