@@ -9,9 +9,7 @@
   border: none;
   margin-bottom: 0;
 }
-.container-footer{
-    
-}
+
 @media (min-width:768px) {
   .navigation-clean-button {
     padding-top: 1rem;

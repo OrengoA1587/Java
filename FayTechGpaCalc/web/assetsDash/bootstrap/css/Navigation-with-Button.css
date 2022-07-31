@@ -9,7 +9,26 @@
   border: none;
   margin-bottom: 0;
 }
-
+.span-navlinks{
+    color: #000;
+    font-size: 1vw;
+    font-weight: bold;
+}
+.span-navlinks:hover{
+    color: #000;
+    font-size: 1.2vw;
+    font-weight: bold;
+}
+.item-co-logo-dash{
+    height: 10vh;
+    width: 20vh;
+    display: block;
+    
+     
+}
+.container-footer{
+    
+}
 @media (min-width:768px) {
   .navigation-clean-button {
     padding-top: 1rem;
