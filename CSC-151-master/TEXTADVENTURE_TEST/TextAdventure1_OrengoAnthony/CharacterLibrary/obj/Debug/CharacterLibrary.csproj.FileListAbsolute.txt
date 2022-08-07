@@ -1,0 +1,5 @@
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\CharacterLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\CharacterLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\CharacterLibrary\obj\Debug\CharacterLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\CharacterLibrary\obj\Debug\CharacterLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\CharacterLibrary\obj\Debug\CharacterLibrary.pdb

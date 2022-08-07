@@ -1,0 +1,35 @@
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+E:\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+E:\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+E:\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+E:\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+E:\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\ConsolePlayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Player\obj\Debug\Player.pdb

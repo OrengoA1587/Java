@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\bin\Debug\DungeonMap.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\DungeonMap\obj\Debug\DungeonMap.pdb

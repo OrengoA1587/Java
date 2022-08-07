@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Scenario\bin\Debug\Scenario.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Scenario\bin\Debug\Scenario.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.pdb
+E:\TextAdventure1_OrengoAnthony\Scenario\bin\Debug\Scenario.dll
+E:\TextAdventure1_OrengoAnthony\Scenario\bin\Debug\Scenario.pdb
+E:\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.csprojAssemblyReference.cache
+E:\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.dll
+E:\TextAdventure1_OrengoAnthony\Scenario\obj\Debug\Scenario.pdb

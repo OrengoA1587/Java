@@ -1,0 +1,20 @@
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\StartMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\StartMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\OptionsMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.csproj.CopyComplete
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\StartMenu.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\StartMenu.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\Movement.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\OptionsMenu.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\bin\Debug\OptionsMenu.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.csprojAssemblyReference.cache
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.csproj.CopyComplete
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\StartMenu\obj\Debug\StartMenu.pdb

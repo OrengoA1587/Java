@@ -1,0 +1,41 @@
+Fayetteville Technical Community College
+Covid-19 Tracker
+******************************************************
+Document Created: 2020/10/19 15:33:45
+******************************************************
+
+Date/Time Observed: 2020/10/19 15:33:45
+Personal Data
+______________________________
+
+Name: Anthony Orengo
+ID#: 123456789
+Phone Number: 910-758-3364
+Age: 32
+Status: Student
+Reason: Positive Covid-19 Case
+*********************************
+
+Date/Time Observed: 2020/10/19 15:43:04
+Personal Data
+______________________________
+
+Name: Jim John
+ID#: 1234526
+Phone Number: 910-456-6543
+Age: 45
+Status: Falculty
+Reason: Positive Covid-19 Case
+*********************************
+
+Date/Time Observed: 2020/10/19 15:49:22
+Personal Data
+______________________________
+
+Name: Tammy Jackson
+ID#: N/A
+Phone Number: 910-645-2828
+Age: 25
+Status: Other
+Reason: Positive Covid-19 Case
+*********************************

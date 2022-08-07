@@ -1,0 +1,4 @@
+Location: Wall Brick Total: 353.0Location: Wall2 Brick Total: 353.0
+*****************************
+ 
+Total Bricks Needed: 706.0 Bricks

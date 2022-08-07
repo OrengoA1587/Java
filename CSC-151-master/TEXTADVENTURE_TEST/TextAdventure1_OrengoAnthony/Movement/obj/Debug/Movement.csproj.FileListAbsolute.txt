@@ -1,0 +1,35 @@
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+E:\CSC-153\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+E:\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+E:\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+E:\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+E:\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+E:\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\Movement\obj\Debug\Movement.pdb

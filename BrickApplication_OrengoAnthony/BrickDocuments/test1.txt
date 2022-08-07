@@ -1,0 +1,4 @@
+Location: Wall Brick Total: 546.0
+*****************************
+ 
+Total Bricks Needed: 546.0 Bricks

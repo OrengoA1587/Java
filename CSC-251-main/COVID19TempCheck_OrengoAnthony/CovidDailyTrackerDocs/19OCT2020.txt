@@ -1,0 +1,18 @@
+Covid-19 Daily Tracker
+*************************************
+
+Current Date: 2020-10-19
+Last Update: 2020/10/19 17:22:55
+Guards Name: Anthony Orengo
+
+Current Positive Cases
+*************************************
+Student Cases: 1
+Falculty Cases: 1
+Other Cases: 1
+
+Current Negative Cases
+*************************************
+Student Cases: 1
+Falculty Cases: 1
+Other Cases: 1

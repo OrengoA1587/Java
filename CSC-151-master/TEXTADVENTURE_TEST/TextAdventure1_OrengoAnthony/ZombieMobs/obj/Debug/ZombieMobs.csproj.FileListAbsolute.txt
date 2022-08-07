@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\bin\Debug\ZombieMobs.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ZombieMobs\obj\Debug\ZombieMobs.pdb

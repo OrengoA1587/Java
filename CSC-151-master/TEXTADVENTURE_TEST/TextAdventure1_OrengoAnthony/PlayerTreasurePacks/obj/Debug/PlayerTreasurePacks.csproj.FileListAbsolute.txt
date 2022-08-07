@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\bin\Debug\PlayerTreasurePacks.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\bin\Debug\PlayerTreasurePacks.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\bin\Debug\PlayerTreasurePacks.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\bin\Debug\PlayerTreasurePacks.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\PlayerTreasurePacks\obj\Debug\PlayerTreasurePacks.pdb

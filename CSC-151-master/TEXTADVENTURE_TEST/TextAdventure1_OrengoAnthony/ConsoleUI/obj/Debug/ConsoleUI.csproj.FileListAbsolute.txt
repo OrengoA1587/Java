@@ -1,0 +1,129 @@
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\OptionsMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\StartMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\StartMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\CSC-153\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Scenario.dll
+C:\Users\Anthony\Desktop\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Scenario.pdb
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Scenario.dll
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Scenario.pdb
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\CSC-153\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Movement.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\Player.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ZombieMobs.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TextAdventure2_OrengoAnthony\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.dll
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.pdb
+E:\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\PlayerTreasurePacks.pdb
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.dll
+C:\Users\Anthony\Desktop\TEXTADVENTURE_TEST\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\DungeonMap.pdb

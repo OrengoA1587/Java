@@ -1,0 +1,5 @@
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.pdb

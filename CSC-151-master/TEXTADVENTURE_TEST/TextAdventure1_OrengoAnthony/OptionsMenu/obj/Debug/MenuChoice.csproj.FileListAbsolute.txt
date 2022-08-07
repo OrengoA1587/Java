@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.dll
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.pdb
+C:\Users\Anthony\Desktop\UploadToGitHub\CSC 153 Complete\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\MenuChoice.csprojAssemblyReference.cache
+E:\CSC-153\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\OptionsMenu\bin\Debug\OptionsMenu.pdb
+E:\CSC-153\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\MenuChoice.csprojAssemblyReference.cache
+E:\CSC-153\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.dll
+E:\CSC-153\TextAdventure1_OrengoAnthony\OptionsMenu\obj\Debug\OptionsMenu.pdb
