@@ -4,28 +4,20 @@
  * and open the template in the editor.
  */
 
+const loginForm = document.getElementById("login");
+const loginButton = document.getElementById("submit");
+const loginErrorMsg = document.getElementById("login-error-msg");
 
-var attempt = 3;
+loginButton.addEventListener("click", (e) => {
+    e.preventDefault();
+    const username = loginForm.username.value;
+    const password = loginForm.password.value;
 
-function validate(){
-    window.location = "studentDashboard.html";
-    var username = document.getElementByID("username");
-    var password = document.getElementByID("password");
-    if ( username === "Formget" && password === "123"){
-        alert ("Login successfully");
-        window.location = "studentDashboard.html";
-         
-        return false;
+    if (username === "user" && password === "123") {
+        alert("You have successfully logged in.");
+        location = "studentDashboard.html";
+    } else {
+        loginErrorMsg.style.opacity = 1;
     }
-    else{
-        attempt --;// Decrementing by one.
-        alert("You have left "+attempt+" attempt;");
-        // Disabling fields after 3 attempts.
-    }
-    if( attempt == 0){
-        document.getElementById("username").disabled = true;
-        document.getElementById("password").disabled = true;
-        document.getElementById("submit").disabled = true;
-    return false;
-    }
-}
+})
+ 
